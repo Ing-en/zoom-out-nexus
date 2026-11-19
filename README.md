@@ -1,7 +1,5 @@
 # Zoom Out Nexus
 
-> **Retired (2026-11-17).** Nexus Menu Map now has this feature built in. Turn on **All Teleports on Overworld** in its settings instead. This plugin has been removed from the Plugin Hub.
-
 > **This plugin is vibe coded.** Claude (an AI coding assistant) wrote it with my direction and in-game testing. It's been used and tweaked in-game, but not every line has been hand-reviewed.
 
 An addon for [Nexus Menu Map](https://github.com/Antipixel/nexus-map) by Antipixel
